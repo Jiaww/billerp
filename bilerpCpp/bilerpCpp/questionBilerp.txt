@@ -1,0 +1,11 @@
+We feel the best way for us to further assess your skills and ability to ramp up quickly as a developer is to ask you to complete this C++ programming task and present your solution to us.  
+
+The task is to write a threaded implementation of a bilinear filtering algorithm.  I have provided some framework (see attached zip) to get you started.  Please add code as needed to bilerp.cpp.
+
+Although the algorithm should be general for all texture sizes, the 3x3 generated texture filtered to the size passed to generateFilteredImage should produce a result that looks like result.png (attached).  For reference, I also attached a render of a scaled up, unfiltered version of the original 3x3 generated texture (showing each individual pixel as a large, distinct color block).  Please note that in order to produce the desired result, you must treat the center of each pixel as the point the pixel represents in the generated texture. 
+
+Feel free to contact me with any questions.  You are also welcome to use reference material, but please do not consult any other people about this task.  
+
+We would like this completed within "a reasonable time limit" but I’m really not sure how to define that.  I think a few hours would be appropriate. Would you be able to find that time in the next couple days for this?  Please let us know if this seems reasonable.
+
+Thank you for your time.
